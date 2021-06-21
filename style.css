@@ -3,6 +3,9 @@
 	padding: 0px;
 	font-family: sans-serif;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 .header{
 	background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("background.png");
